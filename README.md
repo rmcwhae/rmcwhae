@@ -1,4 +1,17 @@
-### Hi there 👋
+## Hi there 👋
+
+I’m a software developer from Canada. I can work across the stack, but my speciality is the front-end. Check out my [portfolio](https://russellmcwhae.ca/).
+
+### My Skills
+
+* React
+* Next.js
+* Jest
+* Cypress
+* SvelteKit
+* Progressive Web Apps (PWAs)
+* Responsive design
+* Photography and graphic design
 
 <!--
 **rmcwhae/rmcwhae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
