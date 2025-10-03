@@ -6,8 +6,8 @@ I’m a software developer from Canada. I can work across the stack, but my spec
 
 * React
 * Next.js
-* Jest
-* Cypress
+* Go
+* Playwright
 * SvelteKit
 * Progressive Web Apps (PWAs)
 * Responsive design
